@@ -1,0 +1,9 @@
+id,produto,categoria,preco,popularidade
+1,Corte de Cabelo Masculino,Servico,45.00,95
+2,Barba Modelada,Servico,35.00,85
+3,Pomada Modeladora Ultra,Produto,55.00,90
+4,Shampoo Anticaspa Pro,Produto,40.00,70
+5,Condicionador Hidratante,Produto,42.00,65
+6,Óleo Essencial para Barba,Produto,60.00,80
+7,Selagem Capilar,Servico,120.00,50
+8,Tratamento de Pele Masculino,Servico,85.00,60
