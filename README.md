@@ -23,4 +23,4 @@ O motor lê o catálogo de produtos a partir de uma fonte de dados (`catalogo.cs
 1. Clone o repositório e acesse a pasta do projeto:
 ```bash
 git clone [https://github.com/SEU-USUARIO/motor-recomendacao.git](https://github.com/SEU-USUARIO/motor-recomendacao.git)
-cd motor-recomendacao
+cd motor-recomendacao# motor-recomendacao
