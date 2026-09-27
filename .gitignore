@@ -9,3 +9,5 @@ __pycache__/
 
 # Variáveis de ambiente
 .env
+.venv/
+.pytest_cache/
